@@ -40,7 +40,7 @@ export default {
       'font-medium',
     ],
   },
-  button: ({ props }: any) => ({
+  button: () => ({
     class: [
       // Flexbox
       'flex items-center justify-center',

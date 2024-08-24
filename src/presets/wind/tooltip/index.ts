@@ -1,5 +1,5 @@
 export default {
-  root: ({ context, props }: any) => ({
+  root: ({ context }: any) => ({
     class: [
       // Position
       'absolute',

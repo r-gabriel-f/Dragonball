@@ -68,7 +68,7 @@ export default {
       'transition duration-200 ease-in',
     ],
   }),
-  onicon: ({ props }: any) => ({
+  onicon: () => ({
     class: [
       // Size
       'w-5 h-5',

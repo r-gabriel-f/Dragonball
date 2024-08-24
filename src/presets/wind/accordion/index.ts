@@ -18,7 +18,7 @@ export default {
         },
       ],
     }),
-    headerAction: ({ context }: any) => ({
+    headerAction: () => ({
       class: [
         //Font
         'font-semibold',

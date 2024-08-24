@@ -1,5 +1,5 @@
 export default {
-  root: ({ props, context }: any) => ({
+  root: ({ props }: any) => ({
     class: [
       // Font
       'font-medium',
